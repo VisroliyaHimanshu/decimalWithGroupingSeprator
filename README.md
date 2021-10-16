@@ -1,1 +1,1 @@
-# decimalTextField
+# Decimal TextField with Grouping seprator
