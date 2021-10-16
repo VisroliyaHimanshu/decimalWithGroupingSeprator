@@ -1,0 +1,6 @@
+framework module Pods_DecimalExample {
+  umbrella header "Pods-DecimalExample-umbrella.h"
+
+  export *
+  module * { export * }
+}
